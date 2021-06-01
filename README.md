@@ -25,9 +25,11 @@ Step 4: Predict class of Input Image.
 * Using perturbations, predictions and weights to create an explainable model with the help of Linear Regression.
 
 ## Results 
-This is the image to be Classified
+This is the image to be Classified <br>
 <img src="https://github.com/deadpool221b/AI-Explanability/blob/main/cat-and-dog.jpg"> 
-These are the areas which were involoved in the prediction of the image to "Labrador" 
+![](cat-and-dog)
+These are the areas which were involoved in the prediction of the image to "Labrador" <br>
+<img src="https://github.com/deadpool221b/AI-Explanability/blob/main/Regions-Involved.png">
 ## References
 
 * <a href="https://towardsdatascience.com/classify-any-object-using-pre-trained-cnn-model-77437d61e05f"> InceptionV3 </a>
