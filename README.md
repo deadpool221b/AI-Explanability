@@ -25,10 +25,9 @@ Step 4: Predict class of Input Image.
 * Using perturbations, predictions and weights to create an explainable model with the help of Linear Regression.
 
 ## Results 
-This is the image to be Classified <br>
-<img src="https://github.com/deadpool221b/AI-Explanability/blob/main/cat-and-dog.jpg"> 
-![](cat-and-dog)
-These are the areas which were involoved in the prediction of the image to "Labrador" <br>
+This is the image to be Classified <br> <br>
+<img src="https://github.com/deadpool221b/AI-Explanability/blob/main/cat-and-dog.jpg"> <br> <br>
+These are the areas which were involoved in the prediction of the image to "Labrador" <br> <br>
 <img src="https://github.com/deadpool221b/AI-Explanability/blob/main/Regions-Involved.png">
 ## References
 
